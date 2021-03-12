@@ -14,7 +14,7 @@ Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 
 ```
-cd kodluyoruzilkrepo
+cd kodluyoruz-frontend-odev1
 code
 ```
 
